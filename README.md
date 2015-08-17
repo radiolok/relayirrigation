@@ -1,20 +1,20 @@
-I have a lot of big soviet releys and I create an irrigtaion control.
+I have a lot of big soviet relays from which I created an irrigtaion control system.
 
-We have one water source, pipe system with valves and 10 separate irrigtation channels.
+We have one water source, pipe system with valves and 10 separate irrigation channels.
 
 # So the current system can:
 
-* Activate only one channel per moment - another channels are waiting for it's end.
-* Every channel can be configured to one of sevet diffetent time settings from 1 to 30 minutes.
-* You can start the channel manually or automatically using the control board.
-* Stop button cansel current channel execution. 
-* If You press stop button more than 5 seconds - all system is stopped.
+* Activate only one channel at a time - other channels are waiting for their turns.
+* Every channel can be configured to one of seven different duration settings from 1 to 30 minutes.
+* You can start a channel manually or automatically using the control board.
+* Stop button cancels current channel execution. 
+* If you hold the stop button for more than 5 seconds - the whole system is stopped.
 
 
-System is assembled from next soviet releys:
+System is assembled from the following soviet relays:
 
-* voltage releys РН-53, РН-54;
-* time control releys ВС-10-64, ВС-10-34, РВ-234;
-* auxiliary reley РПУ-1
+* voltage relays РН-53, РН-54;
+* time control relays ВС-10-64, ВС-10-34, РВ-234;
+* auxiliary relay РПУ-1
 
-You need DipTrace 2.3 or Higher to open progect files
+You need DipTrace 2.3 or Higher to open project files
